@@ -1,7 +1,12 @@
+<div align="center">
+<img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2018/09/logo-ITT-2018.jpg" width="100px">
+
 ### Tecnológico Nacional de México
 ### Instituto Tecnológico de Tijuana
 ### Departamento de Sistemas y Computación
 ___
+</div>
+
 ### **Datos del estudiante**
 **Alumno:** Bañuelos Méndez Jordi
 
@@ -10,6 +15,8 @@ ___
 **Carrera:** Ingeniería Informática
 
 **Materia:** Analisis Avanzado de Software
+
+**Semestre:** Febrero - Julio 2021
 ___
 ### **Índice**
 ### :pencil: [Attach](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/attach)
