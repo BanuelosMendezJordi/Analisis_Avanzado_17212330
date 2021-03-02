@@ -7,7 +7,7 @@
 ___
 </div>
 
-### **Datos del estudiante**
+### **Datos**
 **Alumno:** Bañuelos Méndez Jordi
 
 **Número de Control:** 17212330
@@ -17,10 +17,17 @@ ___
 **Materia:** Analisis Avanzado de Software
 
 **Semestre:** Febrero - Julio 2021
+
+**Equipo:** Dinamita
+
+**Docente:** Jaime Leonardo Enriquez Álvarez
 ___
 ### **Índice**
 ### :pencil: [Attach](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/attach)
 ### :date: [Blog](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/README.md)
+* [C0.1_IntegrarEquiposdeTrabajo_BañuelosMendezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo_Ba%C3%B1uelosMendezJordi.md)
+* [C0.2_C0.2_TipodeSistemadeInformación_BañuelosMendezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.2_TipodeSistemadeInformaci%C3%B3n_Ba%C3%B1uelosMendezJordi.md)
+
 ### :bar_chart: [Diagrams](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/diagrams)
 ### :page_with_curl: [Docs](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/docs)
 ### :computer: [Html](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/html)
