@@ -34,4 +34,7 @@ ___
 ### :computer: [Html](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/html)
 ### :mountain_bicyclist: [Img](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/img)
 ### :closed_book: [PDF](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/pdf)
+* [C0.1_IntegrarEquiposdeTrabajo_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.1_IntegrarEquiposdeTrabajo_Ba%C3%B1uelosMendezJordi.pdf)
+* [C0.2_TipodeSistemadeInformación_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.2_TipodeSistemadeInformaci%C3%B3n_Ba%C3%B1uelosMendezJordi.pdf)
+* [C0.3_DiagramadeFlujodelProceso_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.3_DiagramadeFlujodelProceso_BanuelosMendezJordi.pdf)
 ___
