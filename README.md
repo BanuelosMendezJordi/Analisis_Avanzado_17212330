@@ -29,6 +29,7 @@ ___
 * [C0.2_TipodeSistemadeInformación.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.2_TipodeSistemadeInformaci%C3%B3n_Ba%C3%B1uelosMendezJordi.md)
 * [C0.3_DiagramadeFlujodelProceso.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.3_DiagramadeFlujodelProceso_BanuelosMendezJordi.md)
 * [A0.1_Compilation_Interview.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A0.1_Compilation_Interview_BanuelosMendezJordi.md)
+* [C1.1_ObjetivosGenerales_Específicos.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.1_ObjetivosGenerales_Especificos.md)
 
 ### :bar_chart: [Diagrams](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/diagrams)
 ### :page_with_curl: [Docs](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/docs)
