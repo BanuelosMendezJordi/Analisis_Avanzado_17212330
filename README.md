@@ -39,5 +39,6 @@ ___
 * [C0.1_IntegrarEquiposdeTrabajo_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.1_IntegrarEquiposdeTrabajo_Ba%C3%B1uelosMendezJordi.pdf)
 * [C0.2_TipodeSistemadeInformación_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.2_TipodeSistemadeInformaci%C3%B3n_Ba%C3%B1uelosMendezJordi.pdf)
 * [C0.3_DiagramadeFlujodelProceso_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.3_DiagramadeFlujodelProceso_BanuelosMendezJordi.pdf)
-* [A0.1_Compilation_Interview_BanuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A0.1_Compilation_Interview_BanuelosMendezJordi.pdf)
+* [A0.1_Compilation_Interview_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A0.1_Compilation_Interview_BanuelosMendezJordi.pdf)
+* [C1.1_ObjetivosGenerales_Específicos_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.1_ObjetivosGeneralesEspecificos_Ba%C3%B1uelosMendezJordi.pdf)
 ___
