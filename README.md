@@ -30,7 +30,7 @@ ___
 * [C0.3_DiagramadeFlujodelProceso.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.3_DiagramadeFlujodelProceso_BanuelosMendezJordi.md)
 * [A0.1_Compilation_Interview.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A0.1_Compilation_Interview_BanuelosMendezJordi.md)
 * [C1.1_ObjetivosGenerales_Específicos.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.1_ObjetivosGenerales_Especificos.md)
-
+* [C1.2_ActaConstitutivaDelProyecto.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.2_ActaConstitutivaDelProyecto_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 ### :bar_chart: [Diagrams](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/diagrams)
 ### :page_with_curl: [Docs](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/docs)
 ### :computer: [Html](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/html)
@@ -41,4 +41,5 @@ ___
 * [C0.3_DiagramadeFlujodelProceso_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.3_DiagramadeFlujodelProceso_BanuelosMendezJordi.pdf)
 * [A0.1_Compilation_Interview_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A0.1_Compilation_Interview_BanuelosMendezJordi.pdf)
 * [C1.1_ObjetivosGenerales_Específicos_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.1_ObjetivosGeneralesEspecificos_Ba%C3%B1uelosMendezJordi.pdf)
+* [C1.2_ActaConstitutivaDelProyecto.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.2_ActaConstitutivaDelProyecto_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 ___
