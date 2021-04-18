@@ -32,6 +32,7 @@ ___
 * [C1.1_ObjetivosGenerales_Específicos.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.1_ObjetivosGenerales_Especificos.md)
 * [C1.2_ActaConstitutivaDelProyecto.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.2_ActaConstitutivaDelProyecto_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [C1.3_RequisitosdelSistema.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.3_RequisitosdelSistema_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
+* [A1.0_ProjectCharter_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 ### :bar_chart: [Diagrams](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/diagrams)
 ### :page_with_curl: [Docs](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/docs)
 ### :computer: [Html](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/html)
@@ -44,4 +45,5 @@ ___
 * [C1.1_ObjetivosGenerales_Específicos_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.1_ObjetivosGeneralesEspecificos_Ba%C3%B1uelosMendezJordi.pdf)
 * [C1.2_ActaConstitutivaDelProyecto_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.2_ActaConstitutivaDelProyecto_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [C1.3_RequisitosdelSistema_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.3_RequisitosdelSistema_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
+* [A1.0_ProjectCharter_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 ___
