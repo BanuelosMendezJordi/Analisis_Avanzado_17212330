@@ -23,8 +23,8 @@ ___
 **Docente:** Jaime Leonardo Enriquez Álvarez
 ___
 ### **Índice**
-### :pencil: [Attach](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/attach)
-### :date: [Blog](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/README.md)
+### :pencil: Attach
+### :date: Blog
 * [C0.1_IntegrarEquiposdeTrabajo.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo_Ba%C3%B1uelosMendezJordi.md)
 * [C0.2_TipodeSistemadeInformación.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.2_TipodeSistemadeInformaci%C3%B3n_Ba%C3%B1uelosMendezJordi.md)
 * [C0.3_DiagramadeFlujodelProceso.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C0.3_DiagramadeFlujodelProceso_BanuelosMendezJordi.md)
@@ -33,11 +33,12 @@ ___
 * [C1.2_ActaConstitutivaDelProyecto.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.2_ActaConstitutivaDelProyecto_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [C1.3_RequisitosdelSistema.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.3_RequisitosdelSistema_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [A1.0_ProjectCharter_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
-### :bar_chart: [Diagrams](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/diagrams)
-### :page_with_curl: [Docs](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/docs)
-### :computer: [Html](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/html)
-### :mountain_bicyclist: [Img](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/img)
-### :closed_book: [PDF](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/tree/main/pdf)
+* [C1.4_UML_CasosdeUso_SecuenciaClases.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.4_UML_CasosdeUso_SecuenciaClases_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
+### :bar_chart: Diagrams
+### :page_with_curl: Docs
+### :computer: Html
+### :mountain_bicyclist: Img
+### :closed_book: PDF
 * [C0.1_IntegrarEquiposdeTrabajo_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.1_IntegrarEquiposdeTrabajo_Ba%C3%B1uelosMendezJordi.pdf)
 * [C0.2_TipodeSistemadeInformación_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.2_TipodeSistemadeInformaci%C3%B3n_Ba%C3%B1uelosMendezJordi.pdf)
 * [C0.3_DiagramadeFlujodelProceso_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C0.3_DiagramadeFlujodelProceso_BanuelosMendezJordi.pdf)
@@ -46,4 +47,5 @@ ___
 * [C1.2_ActaConstitutivaDelProyecto_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.2_ActaConstitutivaDelProyecto_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [C1.3_RequisitosdelSistema_BañuelosMendezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.3_RequisitosdelSistema_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [A1.0_ProjectCharter_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
+* [C1.4_UML_CasosdeUso_SecuenciaClases_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 ___
