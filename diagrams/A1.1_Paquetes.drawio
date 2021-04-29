@@ -1,0 +1,67 @@
+<mxfile>
+    <diagram id="s79yV5frxDQWSO02dL-B" name="Page-1">
+        <mxGraphModel dx="322" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Presentation Layer" style="shape=folder;fontStyle=1;tabWidth=140;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="148" width="410" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Login" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="2" vertex="1">
+                    <mxGeometry x="30" y="60" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Course&#10;Catalog" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="2" vertex="1">
+                    <mxGeometry x="150" y="60" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Home&#10;(Employee)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="2" vertex="1">
+                    <mxGeometry x="270" y="60" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Home&#10;(Coordinator)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="2" vertex="1">
+                    <mxGeometry x="30" y="130" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Progress" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="2" vertex="1">
+                    <mxGeometry x="150" y="130" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Data&#10;Analytics" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="2" vertex="1">
+                    <mxGeometry x="270" y="130" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Business Logic Layer" style="shape=folder;fontStyle=1;tabWidth=180;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="468" width="410" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Users&#10;Controller" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="4" vertex="1">
+                    <mxGeometry x="95" y="130" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Certifications&#10;Controller" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="4" vertex="1">
+                    <mxGeometry x="205" y="130" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Courses&#10;Controller" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="4" vertex="1">
+                    <mxGeometry x="95" y="62" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Lessons&#10;Controller" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="4" vertex="1">
+                    <mxGeometry x="205" y="62" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" parent="1" source="5" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Database" style="shape=folder;fontStyle=1;tabWidth=100;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
+                    <mxGeometry x="655" y="468" width="410" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Inscriptions" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="5" vertex="1">
+                    <mxGeometry x="30" y="60" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Support&#10;Material" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="5" vertex="1">
+                    <mxGeometry x="150" y="60" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Roles" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="5" vertex="1">
+                    <mxGeometry x="270" y="60" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Categories" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="5" vertex="1">
+                    <mxGeometry x="155" y="130" width="100" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
