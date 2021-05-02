@@ -35,7 +35,7 @@ ___
 * [A1.0_ProjectCharter_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [C1.4_UML_CasosdeUso_SecuenciaClases.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.4_UML_CasosdeUso_SecuenciaClases_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [C1.5_UML_Estado_Componentes_Distribución.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.5_UML_Estado_Componentes_Distribuci%C3%B3n_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
-* [C1.5_UML_Estado_Componentes_Distribución.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A1.1_UML_Requirements_Modeling.md)
+* [A1.1_UML_Requirements_Modeling_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A1.1_UML_Requirements_Modeling_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 ### :bar_chart: Diagrams
 ### :page_with_curl: Docs
 ### :computer: Html
@@ -51,4 +51,5 @@ ___
 * [A1.0_ProjectCharter_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [C1.4_UML_CasosdeUso_SecuenciaClases_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A1.0_ProjectCharter_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [C1.5_UML_Estado_Componentes_Distribución_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.5_UML_Estado_Componentes_Distribuci%C3%B3n_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
+* [A1.1_UML_Requirements_Modeling_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A1.1_UML_Requirements_Modeling_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 ___
