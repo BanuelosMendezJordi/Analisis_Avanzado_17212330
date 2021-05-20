@@ -37,6 +37,9 @@ ___
 * [C1.5_UML_Estado_Componentes_Distribución.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C1.5_UML_Estado_Componentes_Distribuci%C3%B3n_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [A1.1_UML_Requirements_Modeling_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A1.1_UML_Requirements_Modeling_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [C2.1_EspecificaciónRequerimientosFuncionales.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/C2.1_Especificaci%C3%B3nRequerimientosFuncionales_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
+* [A2.1_Requirements_specifications_and_documentation_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A2.1_Requirements_specifications_and_documentation_Ba%C3%B1uelsoM%C3%A9ndezJordi.md)
+* [A2.2_Architectural_ViewModel_4+1_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A2.2_Architectural_ViewModel_4%2B1_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
+
 ### :bar_chart: Diagrams
 ### :page_with_curl: Docs
 ### :computer: Html
@@ -54,4 +57,6 @@ ___
 * [C1.5_UML_Estado_Componentes_Distribución_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C1.5_UML_Estado_Componentes_Distribuci%C3%B3n_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [A1.1_UML_Requirements_Modeling_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A1.1_UML_Requirements_Modeling_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [C2.1_EspecificaciónRequerimientosFuncionales_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/C2.1_Especificaci%C3%B3nRequerimientosFuncionales_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
+* [A2.1_Requirements_specifications_and_documentation_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A2.1_Requirements_specifications_and_documentation_Ba%C3%B1uelsoM%C3%A9ndezJordi.pdf)
+* [A2.2_Architectural_ViewModel_4+1_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A2.2_Architectural_ViewModel_4%2B1_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 ___
