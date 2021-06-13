@@ -40,6 +40,8 @@ ___
 * [A2.1_Requirements_specifications_and_documentation_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A2.1_Requirements_specifications_and_documentation_Ba%C3%B1uelsoM%C3%A9ndezJordi.md)
 * [A2.2_Architectural_ViewModel_4+1_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A2.2_Architectural_ViewModel_4%2B1_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [A2.3_Software_Architectural_Patterns_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A2.3_Software_Architectural_Patterns_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
+* [A2.3_Software_Architectural_Patterns_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A2.3_Software_Architectural_Patterns_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
+* [A3.1.Documentation_Scrum_InitiatePhase_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A2.3_Software_Architectural_Patterns_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 
 ### :bar_chart: Diagrams
 ### :page_with_curl: Docs
