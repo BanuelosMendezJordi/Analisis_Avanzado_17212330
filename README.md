@@ -44,7 +44,7 @@ ___
 * [A3.1.Documentation_Scrum_InitiatePhase_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A3.1.Documentation_Scrum_InitiatePhase_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [A3.2_InitialPhase_Artifacts_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A3.2_InitialPhase_Artifacts_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 * [A3.3_Architecture_usingC4Model_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A3.3_Architecture_usingC4Model_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
-* [A3.4_Scrum_Artifacts_PlanningEstimation_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A3.3_Architecture_usingC4Model_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
+* [A3.4_Scrum_Artifacts_PlanningEstimation_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/blog/A3.4_Scrum_Artifacts_PlanningEstimation_Ba%C3%B1uelosM%C3%A9ndezJordi.md)
 
 
 ### :bar_chart: Diagrams
@@ -70,4 +70,5 @@ ___
 * [A3.1_Documentation_Scrum_InitiatePhase_BañuelosMéndezJordi.md](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A3.1_Documentation_Scrum_InitiatePhase.pdf)
 * [A3.2_InitialPhase_Artifacts_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A3.2_InitialPhase_Artifacts_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 * [A3.3_Architecture_usingC4Model_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A3.3_Architecture_usingC4Model_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
+* [A3.4_Scrum_Artifacts_PlanningEstimation_BañuelosMéndezJordi.pdf](https://github.com/BanuelosMendezJordi/Analisis_Avanzado_17212330/blob/main/pdf/A3.4_Scrum_Artifacts_PlanningEstimation_Ba%C3%B1uelosM%C3%A9ndezJordi.pdf)
 ___
